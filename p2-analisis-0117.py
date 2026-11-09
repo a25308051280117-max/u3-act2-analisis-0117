@@ -20,7 +20,7 @@ print("+---+---precio maximo+---+---")
 # precio maximo de cada carro
 print(agrupado['Precio_USD'].max())
 
-print("+---+---Ejemplo 2 Matias Lopez 0117+---+---")
+print("+---+---segunda parte Matias Lopez 0117+---+---")
 print("Agrupaciones multiples")
 print("mean-->promedio,sum-->suma")
 print("max-->maximo,min-->minimo")
